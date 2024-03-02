@@ -8,5 +8,8 @@ Training a semi-supervised end-to-end speech recognition system using noisy stud
 speech recognition, low resource, semi-supervised training, CycleGAN, noisy student training
 
 # Experiment setup and dataset
+1) download common voice dataset 
+2) download Leipzig text corpora
+3) copy changes and recipie to the corresponding espnet directory
 
 
