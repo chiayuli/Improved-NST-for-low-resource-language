@@ -1,4 +1,4 @@
-# improved-NST-for-low-resource-language
+# Improved-NST-for-low-resource-language
 Paper title: Improving noisy student training for low-resource languages in End-to-End ASR using CycleGAN and inter-domain losses
 This work has been submitted to SIGUL 2024 and is available on arXiv (update link later)
 
